@@ -1,4 +1,5 @@
 " remap hjkl to hnei
-nnoremap j n
-nnoremap k e
-nnoremap l i
+
+nnoremap n j|xnoremap n j|onoremap n j|
+nnoremap e k|xnoremap e k|onoremap e k|
+nnoremap i l|xnoremap i l|onoremap i l|
