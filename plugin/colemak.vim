@@ -7,3 +7,7 @@ nnoremap i l| xnoremap i l| onoremap i l|
 nnoremap <C-W>n <C-W>j|xnoremap <C-W>n <C-W>j|
 nnoremap <C-W>e <C-W>k|xnoremap <C-W>e <C-W>k|
 nnoremap <C-W>i <C-W>l|xnoremap <C-W>i <C-W>l|
+
+" SCROLL MAPPINGS
+nnoremap <C-n> <C-e>
+nnoremap <C-e> <C-y>
